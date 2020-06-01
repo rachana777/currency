@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(157, 216, 79);
+}
+
+#frontend {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+,
+input {
+    border: 1px solid rgb(240, 34, 103);
+    border-radius: .5em;
+    padding: .25rem;
+}
+
+select {
+    margin-left: .3rem;
+}
+
+.equals {
+    font-weight: 2rem;
+    font-weight: bold;
+}
